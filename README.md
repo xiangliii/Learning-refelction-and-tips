@@ -30,16 +30,16 @@ Furthermore, when I want to design somthing relayed to crreative computing I wil
 
 
 
-### TIPS👏
+### TIPS 👏
 
 If you are also new to the physical computing or the creative industry, from my own learning experience in this week, I can think of few tips for you to make things easier.
 - If you don't know or don't sure about something, don't hesitate to ask people around you!
     - Since, from my perspective, things related to this field sometimes is hard to understand from videos or etc on the Internat, especially for hand-on things like making the circuit. Asking help from the real world is much easier since you can physically interact.
     - However, if you can't find someone in real life who can help with your problems, websites like Stack Overflow can be really useful!
 - It is not easy to code, but don't be afraid of tring!
-    - Coding is never a easy things but people who are not at computing like me can do some very easy codeing like making the text **blod** using Markdown. So don't be afraid! It is something eveyone can do a little bit!😃 👍
+    - Coding is never a easy things but people who are not at computing like me can do some very easy codeing like making the text **blod** using Markdown. So don't be afraid! It is something eveyone can do a little bit! 😃 👍
 
 
 
 
-#### Thanksss for reading!😀
+#### Thanksss for reading! 😀
