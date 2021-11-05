@@ -12,6 +12,8 @@ Before Monday's class, I thought phisical computing is something doing with asse
 
 As I have mentioned before. I have done few circuits in high school Physics lessons but I have already forget them all. So this is basically a start-from-scratch situation for me. Even though I am really weak at it but I still managed to finish a few with my own efforts and helps from peers. I found it really difficult when making the first circuit since I am not familiar with all the elements in Arduino and I can't really see which part to plug into the wire from the Youtube video. However, I tried many times taking closer look at the video and asked help form my peers who have finished the first circuit and I finally light up the LED! 🥳🥳
 ![I截屏2021-11-05 上午8.36.11](/Users/pper/Desktop)
+<img width="559" alt="截屏2021-11-05 上午8 36 11" src="https://user-images.githubusercontent.com/93761307/140488332-a1b6139b-97c1-4489-9e81-596b4e47b657.png">
+
 The first circuit successed! 🙌
 
 
