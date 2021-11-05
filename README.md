@@ -3,7 +3,7 @@
 Reflect on my learning as well as provide some tips for people who are also new to physical computing
 
 
-###Initial thoughts about physical comupting
+### Initial thoughts about physical comupting
 
 Before Monday's class, I thought phisical computing is something doing with assembling computer hardware or experiments with circuit like I have done in high scool Physics class. However, after introduction done by Jasmine, I realized that physical computing is a more broader term: it stands for interacting ith real-world objects by programming form a computer. Things like automatic door is also a kind of physical computing.This really opened up my view in the creative computing world.
 
